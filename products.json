@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Alabaster Table",
+    "price": 12,
+    "created_at": "2019-01-04T00:00:00Z",
+    "sale_count": 32,
+    "view_count": 730
+  },
+  {
+    "id": 2,
+    "name": "Zebra Table",
+    "price": 44,
+    "created_at": "2012-01-04T00:00:00Z",
+    "sale_count": 301,
+    "view_count": 3279
+  },
+  {
+    "id": 3,
+    "name": "Coffee Table",
+    "price": 10,
+    "created_at": "2014-05-28T00:00:00Z",
+    "sale_count": 1048,
+    "view_count": 20123
+  }
+]
